@@ -1,4 +1,4 @@
-import './App.css';
+import './assets/App.css';
 import {data} from './det.js'
 
 function App() {

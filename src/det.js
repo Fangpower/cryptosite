@@ -1,7 +1,7 @@
-import cerberus from './Images/Cerberus.png'
-import cyclopse from './Images/Cyclopse.png'
-import harpy from './Images/Harpy.png'
-import hydra from './Images/Hydra.png'
+import cerberus from './Images/Monsters/Cerberus.png'
+import cyclopse from './Images/Monsters/Cyclopse.png'
+import harpy from './Images/Monsters/Harpy.png'
+import hydra from './Images/Monsters/Hydra.png'
 
 export const data = [
     {
